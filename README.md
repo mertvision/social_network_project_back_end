@@ -1,5 +1,7 @@
 # Back End Side of Social Network Project
 
+https://github.com/user-attachments/assets/b3ebd041-05a4-4744-8baf-a5f1cc31462c
+
 ## 1. Description of The App
 
 This application is a social network's back-end project that uses TypeScript as the programming language, Node.js as the runtime environment, MongoDB as the database, and JSON Web Token for authorization processes. It doesn't include all of YouTube's features, but it supports basic functionalities like registration, login, asking questions, answering questions, likes etc. The server's API endpoints for testing in Postman are provided here:
